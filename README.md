@@ -1,3 +1,11 @@
+
+<img width="1919" height="1103" alt="image" src="https://github.com/user-attachments/assets/973cea2e-ab3f-4169-b270-c43636e94a5e" />
+
+
+
+
+
+
 # Bajaj Finc REST API
 
 A Python Flask REST API that processes arrays and categorizes data into different types (numbers, alphabets, special characters) with various operations.
@@ -188,5 +196,6 @@ The API includes comprehensive error handling for:
 - **Python-dotenv**: Environment variable management
 
 ## License
+
 
 MIT License 
